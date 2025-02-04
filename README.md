@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Alemayehuw-bio
-- 👀 I’m a biostatistician working on design and analysis of complex survey, clinical trials, implementation research and observational studies. I want to learn more about 
+- 👀 I’m a biostatistician working on design and analysis of complex survey, clinical trials, implementation research and observational studies.
+- I want to learn more about  machine learning and AI.
   
 
 <!---
